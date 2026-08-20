@@ -42,11 +42,11 @@
     "proxy",
     "localhost"
   ],
-  "author": "Vercel Labs",
+  "author": "qisthidev",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vercel-labs/portless.git"
+    "url": "https://github.com/qisthidev/portless.git"
   },
   "homepage": "https://portless.sh",
   "bugs": {
